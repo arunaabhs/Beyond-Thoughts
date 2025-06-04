@@ -1,3 +1,4 @@
+Deployed Link: https://beyondthoughts.netlify.app/
 # Beyond-Thoughts
 
 # Dynamic Discussion Web Application
