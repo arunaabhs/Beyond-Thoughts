@@ -46,5 +46,12 @@ The **Dynamic Discussion Web Application** is an interactive platform designed t
    ```sh
    cd ../frontend && npm start
    ```
+## Contributing
+We welcome contributions from developers of all experience levels! Whether you're fixing bugs, improving documentation, or adding new features, your input helps us grow. Please feel free to submit issues or pull requests.
 
+## License
+This project is licensed under the MIT License, giving you the freedom to use, modify, and distribute the application.
+
+## Final Thoughts
+Beyond Thoughts is more than just a discussion platform—it's a space where ideas evolve through collaboration and diverse perspectives. We're continuously working to enhance the experience and make meaningful dialogue more accessible to everyone. Explore the live demo, and let your thoughts go beyond the ordinary.
 
