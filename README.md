@@ -53,5 +53,5 @@ We welcome contributions from developers of all experience levels! Whether you'r
 This project is licensed under the MIT License, giving you the freedom to use, modify, and distribute the application.
 
 ## Final Thoughts
-Beyond Thoughts is more than just a discussion platform—it's a space where ideas evolve through collaboration and diverse perspectives. We're continuously working to enhance the experience and make meaningful dialogue more accessible to everyone. Explore the live demo, and let your thoughts go beyond the ordinary.
+Beyond Thoughts is more than just a discussion platform—it's a space where ideas evolve through collaboration and diverse perspectives. We're continuously working to enhance the experience and make meaningful dialogue more accessible to everyone. Explore the live demo given at the top, and let your thoughts go beyond the ordinary.
 
